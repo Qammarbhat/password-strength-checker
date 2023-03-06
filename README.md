@@ -6,7 +6,7 @@ The Password Strength Checker is a simple command-line tool that assesses the st
 
 To use the Password Strength Checker, you will need to have Python 3 installed on your computer. You can download Python 3 from the official website: https://www.python.org/downloads/
 
-Once you have Python 3 installed, you can download the Password Strength Checker source code from GitHub: https://github.com/your-username/password-strength-checker
+Once you have Python 3 installed, you can download the Password Strength Checker source code from GitHub: https://github.com/Qammarbhat/password-strength-checker.git
 
 # Usage
 
